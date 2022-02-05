@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Bishop
+comment0.text=\n\ Write\ a\ description\ of\ class\ Piece\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=name\ color
+comment1.target=Bishop(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getColor()
+comment3.params=board\ iniPos\ finalPos\ counter
+comment3.target=boolean\ checkMove(Pieces[][],\ java.lang.String,\ java.lang.String,\ int)
+comment4.params=pos
+comment4.target=int\ convertColumn(java.lang.String)
+comment5.params=pos
+comment5.target=int\ convertRow(int)
+comment6.params=pos
+comment6.target=java.lang.String\ unConvertColumn(int)
+comment7.params=pos
+comment7.target=int\ unConvertRow(int)
+comment8.params=color
+comment8.target=void\ setColor(java.lang.String)
+comment9.params=name
+comment9.target=void\ setName(java.lang.String)
+numComments=10

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Knight
+comment1.params=name\ color
+comment1.target=Knight(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getColor()
+comment3.params=color
+comment3.target=void\ setColor(java.lang.String)
+comment4.params=name
+comment4.target=void\ setName(java.lang.String)
+comment5.params=board\ iniPos\ finalPos\ counter
+comment5.target=boolean\ checkMove(Pieces[][],\ java.lang.String,\ java.lang.String,\ int)
+comment6.params=pos
+comment6.target=int\ convertColumn(java.lang.String)
+comment7.params=pos
+comment7.target=java.lang.String\ unConvertColumn(int)
+numComments=8

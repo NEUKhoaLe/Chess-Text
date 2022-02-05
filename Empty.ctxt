@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Empty
+comment0.text=\n\ Write\ a\ description\ of\ class\ Piece\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=name\ color
+comment1.target=Empty(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getColor()
+comment3.params=color
+comment3.target=void\ setColor(java.lang.String)
+comment4.params=name
+comment4.target=void\ setName(java.lang.String)
+comment5.params=pos
+comment5.target=int\ convertColumn(java.lang.String)
+comment6.params=pos
+comment6.target=java.lang.String\ unConvertColumn(int)
+numComments=7

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Pieces
+comment1.params=name\ color
+comment1.target=Pieces(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=array\ iniPos\ finalPos\ counter
+comment3.target=boolean\ checkMove(Pieces[][],\ java.lang.String,\ java.lang.String,\ int)
+comment4.params=
+comment4.target=java.lang.String\ getColor()
+comment5.params=array
+comment5.target=boolean\ legalMove(Pieces[][])
+comment6.params=color
+comment6.target=void\ setColor(java.lang.String)
+comment7.params=name
+comment7.target=void\ setName(java.lang.String)
+numComments=8
